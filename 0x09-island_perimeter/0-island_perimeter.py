@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""
-0.Island perimeter
+"""Island perimeter computing module.
 """
 
 
